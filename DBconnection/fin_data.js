@@ -4,7 +4,7 @@ const config = {
 user: 'sa',  
 password: '$Pr0kie',  
 server: "localhost",  
-database: "StudInfo",
+database: "fin_data",
 trustServerCertificate: true
 } 
 
